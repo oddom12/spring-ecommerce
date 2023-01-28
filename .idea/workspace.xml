@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dca4ce7e-5118-46f4-93fe-f9031a54fcbd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-ecommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-ecommerce.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/config/MyDataRestConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductCategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductCategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/SpringBootEcommerceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/SpringBootEcommerceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/config/MyDataRestConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/dao/ProductCategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/dao/ProductCategoryRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/dao/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/dao/ProductRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/entity/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/entity/ProductCategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luv2code/ecommerce/entity/ProductCategory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-boot-ecommerce-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-boot-ecommerce-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-boot-ecommerce-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-boot-ecommerce-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/luv2code/ecommerce/SpringBootEcommerceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/luv2code/ecommerce/SpringBootEcommerceApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,13 +202,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Chris\Documents\Codes\Udemy\ecommerce-project\02-backend\spring-boot-ecommerce\src\main\resources" />
